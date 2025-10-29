@@ -1,0 +1,15 @@
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\bin\Debug\net9.0\Csharp_study.exe
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\bin\Debug\net9.0\Csharp_study.deps.json
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\bin\Debug\net9.0\Csharp_study.runtimeconfig.json
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\bin\Debug\net9.0\Csharp_study.dll
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\bin\Debug\net9.0\Csharp_study.pdb
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.AssemblyInfoInputs.cache
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.AssemblyInfo.cs
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.sourcelink.json
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.dll
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\refint\Csharp_study.dll
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.pdb
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\Csharp_study.genruntimeconfig.cache
+C:\Users\gustavo.caris\Documents\08_Projetos\02GitHub\Csharp_study\obj\Debug\net9.0\ref\Csharp_study.dll
