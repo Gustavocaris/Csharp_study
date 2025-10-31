@@ -1,9 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-//screen sound
-string boaVindas = "Seja bem vindo a aula de C#!";
-
 void ExibirOpcoes()
 {
     Console.WriteLine("\nDigite 1 para registrar uma banda");
@@ -12,3 +6,5 @@ void ExibirOpcoes()
     Console.WriteLine("Digite 4 para exibir a média de uma banda");
     Console.WriteLine("Digite -1 para sair");
 }
+
+Console.WriteLine(ExibirOpcoes);
